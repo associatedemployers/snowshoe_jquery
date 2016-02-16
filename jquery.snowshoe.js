@@ -147,5 +147,3 @@ See GitHub project page for Documentation and License
     }
   }
 })(jQuery);
-
-$.snowshoe.stampScreen.init(stampScreenInitData, $.snowshoe.client);
